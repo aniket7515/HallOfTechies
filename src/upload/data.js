@@ -33,6 +33,17 @@ const data = [
     ],
   },
   {
+    name: "Aniket Dhokane",
+    role: "Frontend developer",
+    image: "![image](https://user-images.githubusercontent.com/80635510/126143129-7ad81d77-77d2-44b5-b579-f2fbe274bda8.png)",
+    skills: ['Python', 'java', 'C++', 'Machine Learning'],
+    link: [
+      "https://github.com/aniket7515",
+      "https://linkedin.com/in/aniket-dhokane-305050207",
+      "https://twitter.com/AniketDhokane?s=08",
+    ],
+  }
+  {
     name: "Palash Burad",
     role: "Full Stack Developer",
     image: "https://avatars.githubusercontent.com/u/36355091?v=4",
